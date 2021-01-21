@@ -19,8 +19,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/MyProject/carousel-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../music-player" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\github_project\carousel-map\imgs" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -31,6 +36,7 @@
       <option name="presentableId" value="Default" />
       <updated>1610855438739</updated>
       <workItem from="1610855442176" duration="10017000" />
+      <workItem from="1611240841148" duration="1332000" />
     </task>
     <servers />
   </component>
